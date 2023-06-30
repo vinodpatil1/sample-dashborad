@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/sample-dashborad/static/css/main.7ffa354a.css",
+    "main.js": "/sample-dashborad/static/js/main.c2ca47e6.js",
+    "static/media/gadar.png": "/sample-dashborad/static/media/gadar.36baae053abf1c287042.png",
+    "static/media/dilwale.png": "/sample-dashborad/static/media/dilwale.d37ee2647b0d07f682c8.png",
+    "static/media/rock-star.png": "/sample-dashborad/static/media/rock-star.2d24a94af062c097df4d.png",
+    "static/media/sholay.png": "/sample-dashborad/static/media/sholay.8860ada5367796c4aec2.png",
+    "static/media/ghayal.png": "/sample-dashborad/static/media/ghayal.fd93140f0f59b49e05e0.png",
+    "static/media/dhom3.png": "/sample-dashborad/static/media/dhom3.895d3ca09798e72da3d4.png",
+    "static/media/bootstrap-icons.woff?": "/sample-dashborad/static/media/bootstrap-icons.4753c5ba57962b4d7bf8.woff",
+    "static/media/bootstrap-icons.woff2?": "/sample-dashborad/static/media/bootstrap-icons.6d63d0501e5ed7b79dab.woff2",
+    "static/media/user.jpg": "/sample-dashborad/static/media/user.ed3f4cb9d4b48918d668.jpg",
+    "static/media/ev3.jpg": "/sample-dashborad/static/media/ev3.c68b2fb85637bc8fabe8.jpg",
+    "static/media/ev4.jpg": "/sample-dashborad/static/media/ev4.3ddbaedf655fa31745c5.jpg",
+    "static/media/ev2.jpg": "/sample-dashborad/static/media/ev2.eef4caf419ac611159f7.jpg",
+    "static/media/ev1.jpg": "/sample-dashborad/static/media/ev1.225ab4a9dff3a57e3ad1.jpg",
+    "index.html": "/sample-dashborad/index.html",
+    "main.7ffa354a.css.map": "/sample-dashborad/static/css/main.7ffa354a.css.map",
+    "main.c2ca47e6.js.map": "/sample-dashborad/static/js/main.c2ca47e6.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.7ffa354a.css",
+    "static/js/main.c2ca47e6.js"
+  ]
+}
